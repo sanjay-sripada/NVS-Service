@@ -36,6 +36,11 @@ body {
 img {
   max-width: 100%; }
 
+img .logo
+{
+  max-width: 10%;  
+}
+
 a:focus,
 input:focus,
 textarea:focus,
